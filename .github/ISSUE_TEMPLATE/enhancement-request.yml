@@ -1,6 +1,6 @@
 name: Enhancement Request
 description: Suggest an improvement to be made for an existing feature
-labels: ["Type: Enhancement"]
+type: "Enhancement"
 body:
 - type: textarea
   attributes:
